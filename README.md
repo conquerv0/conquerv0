@@ -1,19 +1,13 @@
-### Hi there 👋
+========
+📈 Finance
+As a global macro investor, I focus on managing portfolios with financial instruments in China and US stock market.
+--------
+Pynaissance
+OLPS
 
-<!--
-**conquerv0/conquerv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-:computer:
-:chart_with_upwards_trend:
+========
+💻  Algorithm
+As an AI algorithm engineer, I helped built an intelligent investment advisor(Robo-advisor), intelligent financial reports analytics and credit risk models.
+--------
+CNN_Alpha
+SVM-Genetic_Alpha
