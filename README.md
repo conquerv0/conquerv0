@@ -14,13 +14,13 @@
 </a>
 
 
-<a href="https://github.com/conquerv0/CNN-alpha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&repo=CNN-alpha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/conquerv0/CNN_alpha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&repo=CNN_alpha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 📈 Finance
 
-As a global macro investor, I focus on managing portfolios with financial instruments in China and US stock market.
+**As a global macro investor, I focus on managing portfolios with financial instruments in China and US stock market.
 - Pynaissance
 - OLPS
 
