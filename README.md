@@ -1,5 +1,3 @@
-![Header](https://github.com/conquerv0/conquerv0/blob/master/resources/machine_learning.jpg "Header")
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/conquerv0/conquerv0">
@@ -31,5 +29,17 @@ As an AI algorithm engineer, I helped built an intelligent investment advisor(Ro
 - CNN_Alpha
 - SVM-Genetic_Alpha
 
+
+<!-- Actual text -->
+
+You can connect with me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/vicxiao/
 
 
