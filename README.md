@@ -33,7 +33,7 @@ As an AI algorithm engineer, I built machine learning driven risk analytic archi
 
 <!-- Actual text -->
 
-You can connect with me on [![LinkedIn][3.2]][3].
+You can connect with me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
