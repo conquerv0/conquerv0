@@ -1,4 +1,6 @@
-[![Header](https://github.com/conquerv0/conquerv0/blob/master/resources/machine_learning.jpg "Header")]
+![Header](https://github.com/conquerv0/conquerv0/blob/master/resources/machine_learning.jpg "Header")
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 📈 Finance
 
@@ -12,4 +14,6 @@ As an AI algorithm engineer, I helped built an intelligent investment advisor(Ro
 --------
 - CNN_Alpha
 - SVM-Genetic_Alpha
+
+
 
