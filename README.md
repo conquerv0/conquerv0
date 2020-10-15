@@ -1,6 +1,22 @@
 ![Header](https://github.com/conquerv0/conquerv0/blob/master/resources/machine_learning.jpg "Header")
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/conquerv0/conquerv0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conquerv0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/conquerv0/conquerv0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=conquerv0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Victor's GitHub Stats" />
+</a>
+
+<a href="https://github.com/conquerv0/Pynaissance">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&repo=Pynaissance&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/etccapital/Survey_PortfolioSelection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etcapital&repo=Survey_PortfolioSelection&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 📈 Finance
 
