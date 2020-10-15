@@ -18,7 +18,8 @@
 
 📈 Finance
 
-**As a global macro investor, I focus on managing portfolios with financial instruments in China and US stock market.**
+As a global macro investor, I focus on managing portfolios with financial instruments in China and US stock market.
+--------
 - Pynaissance
 - OLPS
 
