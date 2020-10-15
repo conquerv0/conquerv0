@@ -5,6 +5,7 @@
 </a>
 
 
+/
 <a href="https://github.com/conquerv0/Pynaissance">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&repo=Pynaissance&theme=nord" />
 </a>
