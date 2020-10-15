@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conquerv0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/conquerv0/conquerv0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=conquerv0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Victor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=conquerv0&show_icons=true&hide=prs, issues&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Victor's GitHub Stats" />
 </a>
 
 <a href="https://github.com/conquerv0/Pynaissance">
@@ -14,8 +14,8 @@
 </a>
 
 
-<a href="https://github.com/etccapital/Survey_PortfolioSelection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&repo=Survey_PortfolioSelection&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/conquerv0/CNN-alpha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&repo=CNN-alpha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 📈 Finance
