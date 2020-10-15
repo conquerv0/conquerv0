@@ -3,6 +3,10 @@
 <a href="https://github.com/conquerv0/conquerv0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=conquerv0&count_private=true&theme=nord&alt="Victor's GitHub Stats" />
 </a>
+                                                                                                                                                                                                                                      
+<a href="https://github.com/conquerv0/conquerv0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conquerv0&theme=nord" />
+</a>
 
 <a href="https://github.com/conquerv0/Pynaissance">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&repo=Pynaissance&theme=nord" />
