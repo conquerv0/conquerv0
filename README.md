@@ -18,14 +18,14 @@
 
 📈 Finance
 
-As a global macro investor, I focus on managing portfolios with financial instruments in China and US stock market.
+As an aspiring quant and global macro investor, my research area of interest includes factor mining and sector rotation timing, while managing portfolios with financial instruments in China and US stock market as practition. 
 --------
 - Pynaissance
 - OLPS
 
 💻  Algorithm
 
-As an AI algorithm engineer, I helped built an intelligent investment advisor(Robo-advisor), intelligent financial reports analytics and credit risk models.
+As an AI algorithm engineer, I built machine learning driven risk analytic architecture, mainly with XGBoost and an extensive intelligent financial reports analytics infrastructure.
 --------
 - CNN_Alpha
 - SVM-Genetic_Alpha
