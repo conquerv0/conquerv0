@@ -8,16 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conquerv0&theme=nord" />
 </a>
 
-<a href="https://github.com/conquerv0/Pynaissance">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&repo=Pynaissance&theme=nord" />
-</a>
-
-
-<a href="https://github.com/conquerv0/CNN_alpha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=conquerv0&theme=nord&repo=CNN_alpha" />
-</a>    
-
-
 <!-- Actual text -->
 
 You can connect with me on [![LinkedIn][2.2]][2].
