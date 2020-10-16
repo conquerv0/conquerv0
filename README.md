@@ -12,7 +12,7 @@
 
 I am open to chat about machine learning algos, quantitative finance research and various global macro investment insights.
 
-Feel free to reach out to me on [![LinkedIn][2.2]][2]. :)
+Feel free to reach out to me on [![LinkedIn][2.2]][2] :)
 
 <!-- Icons -->
 
