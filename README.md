@@ -4,7 +4,7 @@
 ### Hi there, I'm [Victor Xiao](https://www.linkedin.com/in/vicxia)! 👋
 
 <p>Machine Learning & Algorithm Engineer Intern @ EverBright</p>
-<p>Quantitative Research Associate @ HuaChuang Securities <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
+<p>Quantitative Research Associate @ HuaChuang Securities <a href="hcquant.com">HCQuant</a> 
 <br>
 
 - 🔭 I’m currently reverse engineering a Lookahead Multi-factor model with Machine learning approaches.
