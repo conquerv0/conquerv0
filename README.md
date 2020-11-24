@@ -8,7 +8,7 @@
 <br>
 
 - 🔭 I’m currently reverse engineering a Lookahead Multi-factor model with Machine learning approaches.
-- 🌱 I’m currently leading ETC Investment Group research team to perform equity, industry and quantitative research. 
+- 🌱 I’m currently leading ETC Investment Group research team to perform equity, industry research and literature review in quantitative finance. 
 - 🤔 I’m learning and looking for more guidance and research opportunities, collaboration in above area and any interesting strategy formulation.
 
 **Languages and Tools:**  
