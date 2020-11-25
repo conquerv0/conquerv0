@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently reverse engineering a Lookahead Multi-factor model with Machine learning approaches.
 - 🌱 I’m currently leading ETC Investment Group research team to perform equity, industry research and literature review in quantitative finance. 
-- 🤔 I’m learning and looking for more guidance and research opportunities, collaboration in above area and any interesting strategy formulation.
+- 🤔 I’m looking for more guidance and collaboration in above area and open to chat about various global macro investment insights.
+
 
 **Languages and Tools:**  
 
@@ -25,7 +26,6 @@
                                                                                                                                                                                                                                      
 <!-- Actual text -->
 
-I am open to chat about machine learning algos, quantitative finance research and various global macro investment insights.
 
 Feel free to reach out to me on [![LinkedIn][2.2]][2] :)
 
