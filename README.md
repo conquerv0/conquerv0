@@ -7,11 +7,6 @@
 <p>Quantitative Research Associate @ HuaChuang Securities <a href="hcquant.com">HCQuant</a> 
 <br>
 
-- 🔭 I’m currently reverse engineering a Lookahead Multi-factor model with Machine learning approaches.
-- 🌱 I’m currently leading ETC Investment Group research team to perform equity, industry research and literature review in quantitative finance. 
-- 🤔 I’m looking for more guidance and collaboration in above area and open to chat about various global macro investment insights.
-
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
