@@ -6,7 +6,9 @@
 <p>Machine Learning & Algorithm Engineer Intern @ EverBright</p>
 <p>Quantitative Research Associate @ HuaChuang Securities <a href="hcquant.com">HCQuant</a> 
 <br>
+  
 - 🔭 I’m currently leading ETC equity research team to perform equity, industry research and quantitative finance team in literature review and strategy replication.
+  
 - 🤔 I’m looking for more guidance and collaboration in the above area and open to chat about various global macro investment insights.
 
 <!-- Actual text -->
