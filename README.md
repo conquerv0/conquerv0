@@ -32,7 +32,7 @@ Feel free to reach out to me on [![LinkedIn][2.2]][2] :)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/conquerv0/conquerv0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=conquerv0&count_private=true&theme=nord&alt="Victor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=conquerv0&count_private=true&theme=nord&hide=issues&alt="Victor's GitHub Stats" />
 </a>
                                                                                                                                                                                                                                     
 
