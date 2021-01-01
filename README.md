@@ -1,4 +1,4 @@
-### Greetings, I'm [Victor Xiao](https://www.linkedin.com/in/vicxiao). 👋&#x1f4c8
+### Greetings, I'm [Victor Xiao](https://www.linkedin.com/in/vicxiao). 👋 #x1f4c8
 
 <p>Machine Learning & Algorithm Engineer Intern @ EverBright</p>
 <p>Quantitative Research Associate @ HuaChuang Securities <a href="hcquant.com">HCQuant</a> 
