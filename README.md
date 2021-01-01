@@ -7,7 +7,7 @@
 <p>Quantitative Research Associate @ HuaChuang Securities <a href="hcquant.com">HCQuant</a> 
 <br>
   
-- 🔭 Directing ETC equity research division to perform equity, industry research; carry out sota literature review and algorithms implementation.
+- 🔭 Directing ETC to perform equity research with fundamental approach and carry out state-of-the-art algorithms implementation.
   
 - 🤔 Looking for more guidance and collaboration in the above area and open to chat about various global macro investment insights.
 
