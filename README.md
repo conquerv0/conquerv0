@@ -6,7 +6,7 @@
   
 - 🔭 Directing ETC to perform equity research state-of-the-art quant approach implementation.
   
-- 🤔 Looking for guidance and collaboration in the above area and open to chat about various global macro investment insights.
+- 🤔 Looking for guidance and collaboration, open to chat about various global macro investment insights.
 
 <!-- Actual text -->
 
