@@ -4,9 +4,9 @@
 <p>Quantitative Research Associate @ HuaChuang Securities <a href="hcquant.com">HCQuant</a> 
 <br>
   
-- 🔭 Directing ETC to perform equity research with fundamental approach and carry out state-of-the-art algorithms implementation.
+- 🔭 Directing ETC to perform equity research state-of-the-art quant approach implementation.
   
-- 🤔 Looking for more guidance and collaboration in the above area and open to chat about various global macro investment insights.
+- 🤔 Looking for guidance and collaboration in the above area and open to chat about various global macro investment insights.
 
 <!-- Actual text -->
 
