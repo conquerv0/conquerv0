@@ -1,7 +1,7 @@
 ### Greetings, I'm [Victor Xiao](https://www.linkedin.com/in/vicxiao). 👋
 
-<p>Machine Learning & Algorithm Engineer Intern @ EverBright</p>
-<p>Quantitative Research Associate @ HuaChuang Securities <a href="hcquant.com">HCQuant</a> 
+<p>Ex Machine Learning & Algorithm Engineer Intern @ EverBright</p>
+<p>Ex Quantitative Research Associate @ HuaChuang Securities <a href="hcquant.com">HCQuant</a> 
 <br>
   
 - 🔭 Directing ETC to perform equity research state-of-the-art quant approach implementation.
