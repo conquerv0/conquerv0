@@ -4,8 +4,8 @@
 <p>Ex Quantitative Research Associate @ <a href="hcquant.com">HCQuant</a> 
 <br>
 
-- Directing ETC capital to perform equity foundamental & quantitative research.
-- Open to colab and chat about various global macro investment insights.
+- Directing etccapital to perform equity fundamental & quantitative research.
+- Open to colab and chat about global macro investment strategies.
 
 <!-- Actual text -->
 
