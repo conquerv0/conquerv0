@@ -4,7 +4,7 @@
 <p>Quantitative Research Associate @ <a href="zczyfund.cn">ZCZY</a> 
 <br>
 
-- Directing etccapital to perform equity fundamental & quantitative research.
+- Directing [etc_capital](https://etccapital.ca/academy) to perform equity fundamental & quantitative research.
 - Open to colab and chat about global macro investment strategies.
 
 <!-- Actual text -->
