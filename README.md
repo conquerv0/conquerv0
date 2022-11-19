@@ -1,7 +1,7 @@
 ### Greetings, I'm [Victor Xiao](https://www.linkedin.com/in/vicxiao). 👋
 
 <p>Ex AI Algorithm Engineer Intern @ EverBright</p>
-<p>Quantitative Research Associate @ <a href="zczyfund.cn">ZCZY</a> 
+<p>Ex Quantitative Research Associate @ <a href="zczyfund.cn">ZCZY</a> 
 <br>
 
 - Directing [etc_capital](https://etccapital.ca/academy) to perform equity fundamental & quantitative research.
