@@ -1,9 +1,5 @@
 ### Greetings, I'm [Victor Xiao](https://www.linkedin.com/in/vicxiao). 👋
 
-<!-- Actual text -->
-
-Feel free to reach out to me on [![LinkedIn][2.2]][2] :)
-
 <!-- Icons -->
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
